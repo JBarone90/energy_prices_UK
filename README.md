@@ -16,7 +16,9 @@ The project involves the following key steps:
 ## Data Sources (Work in progess)
 
 - Consumer Prices Index including owner occupiers' housing costs (CPIH)
+
     <https://www.ons.gov.uk/datasets/cpih01/editions/time-series/versions/37>
 
 - Passenger Rail usage by ticket type
+
     <https://dataportal.orr.gov.uk/statistics/usage/passenger-rail-usage/table-1222-passenger-journeys-by-ticket-type/>
